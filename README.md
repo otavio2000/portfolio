@@ -1,5 +1,5 @@
 # portfolio
-Research portfolio on early stage crypto projects. All reports are 25-30 pages-long. 
+Research portfolio on early stage crypto projects. All reports are 25-30 pages long. 
 
 Sample reports available for download:
 - Aptos
