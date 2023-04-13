@@ -7,9 +7,11 @@ Sample reports available for download:
 
 Completed reports (available upon request):
 
+- Aleo
 - Ante Finance
 - Arcade
 - Azuro
+- Carv
 - Dymension
 - Espresso Systems
 - Exorde
@@ -23,8 +25,11 @@ Completed reports (available upon request):
 - NFTperp
 - Nillion
 - NiftyApes
+- Spacemesh
+- Sismo
 - t2.World
 - Taiko
+- Tally Ho!
 - Tidefi
 - Verida
 - Zecrey
