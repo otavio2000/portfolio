@@ -1,11 +1,11 @@
 # portfolio
-Research portfolio on early stage web3 projects.
+Research portfolio on early stage crypto projects. All reports are 25-30 pages-long. 
 
 Sample reports available for download:
 - Aptos
 - Timeswap
 
-Completed reports (available upon request):
+Completed reports:
 
 - Aleo
 - Ante Finance
