@@ -25,8 +25,8 @@ Completed reports:
 - NFTperp
 - Nillion
 - NiftyApes
-- Spacemesh
 - Sismo
+- Spacemesh
 - t2.World
 - Taiko
 - Tally Ho!
