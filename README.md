@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Research portfolio on early stage crypto projects. All reports are 25-30 pages long. 
 
 Sample reports available for download:
@@ -18,6 +18,7 @@ Completed reports:
 - Exponent
 - Footearn
 - Footium
+- Fringe Finance
 - Fuel Labs
 - KNN3 Network 
 - Lit Protocol
