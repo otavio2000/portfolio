@@ -26,6 +26,7 @@ Completed reports:
 - NFTperp
 - Nillion
 - NiftyApes
+- Sei Network
 - Sismo
 - Spacemesh
 - t2.World
