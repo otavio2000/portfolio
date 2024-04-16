@@ -23,6 +23,7 @@ Completed reports:
 - KNN3 Network 
 - Lit Protocol
 - Minima
+- Modulus Labs
 - NFTperp
 - Nillion
 - NiftyApes
