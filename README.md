@@ -20,6 +20,7 @@ Completed reports:
 - Footium
 - Fringe Finance
 - Fuel Labs
+- GenSyn.ai
 - KNN3 Network 
 - Lit Protocol
 - Minima
