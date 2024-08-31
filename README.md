@@ -21,6 +21,7 @@ Completed reports:
 - Fringe Finance
 - Fuel Labs
 - GenSyn.ai
+- Kosen Labs
 - KNN3 Network 
 - Lit Protocol
 - Minima
